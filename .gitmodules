@@ -1,0 +1,9 @@
+[submodule "modules/cti-taxii-server"]
+	path = modules/cti-taxii-server
+	url = git@github.com:oasis-open/cti-taxii-server.git
+[submodule "modules/cti-python-stix2"]
+	path = modules/cti-python-stix2
+	url = https://github.com/oasis-open/cti-python-stix2.git
+[submodule "modules/cti-taxii-client"]
+	path = modules/cti-taxii-client
+	url = https://github.com/oasis-open/cti-taxii-client.git
